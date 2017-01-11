@@ -3,9 +3,8 @@
     <head>
         <title><?php echo $title; ?></title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link rel="stylesheet" type="text/css" href="Styles/Stylesheet.css" />
+        <link rel="stylesheet" type="text/css" href="../../Styles/Stylesheet.css" />
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-        <script src="Styles/Bootstrap/js/bootstrap.min.js"></script>
 
         
     </head>
@@ -14,12 +13,12 @@
         <div id="wrapper">
             <nav id="navigation">
                 <ul id="nav">
-                            <li><a href="../Reading/Novels.php">Novels</a></li>
-                            <li><a href="../Reading/Mangas.php">Manga</a></li>
+                            <li><a href="../../Novels.php">Novels</a></li>
+                            <li><a href="../../Ongoing.php">Ongoing</a></li>
                                     
-                            <li><a href="../Reading/TheThing.php">Well..</a></li> 
-                            <li><a href="../Reading/Slide.php">We'll..</a></li>
-                            <li><a href="">..Figure It Out</a></li>
+                            <li><a href="../../TheThing.php">Well..</a></li> 
+                            <li><a href="../../Slide.php">We'll..</a></li>
+                            <li><a href="../../Mangas.php">..Figure It Out</a></li>
                     
                 </ul>
             </nav>
